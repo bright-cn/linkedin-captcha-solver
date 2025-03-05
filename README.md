@@ -1,6 +1,6 @@
 # LinkedIn 验证码解决方案
 
-[![推广](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/products/web-unlocker/captcha-solver/linkedin)
+[![推广](https://github.com/bright-cn/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/products/web-unlocker/captcha-solver/linkedin)
 
 使用 Bright Data 先进的验证码解决技术轻松绕过 LinkedIn 验证码。通过机器学习算法、[自动 IP 轮换](https://www.bright.cnsolutions/rotating-proxies)以及强大的代理基础设施，确保对目标网站的无缝持续访问。
 
